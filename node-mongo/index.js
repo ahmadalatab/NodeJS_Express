@@ -50,4 +50,4 @@ MongoClient.connect(url, { useUnifiedTopology: true }).then(client => {
         client.close();
     });
 })
-.catch(err => console.log(err));
+.catch(err => console.log(err)); 
