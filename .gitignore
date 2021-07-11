@@ -2,3 +2,5 @@ node-express/node_modules
 nucampsiteServer/node_modules
 node-mongo/node_modules
 node-mongoose/node_modules
+nucampsiteServer/bin/server.key
+nucampsiteServer/bin/server.cert
